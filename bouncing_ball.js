@@ -1,6 +1,6 @@
 var g = 0.1, x =50, y=50, vx = 0, vy = 0;
 
-var colour = "#0000ff"
+var colour = "#00ff00"
 
 var radius = 10
 
